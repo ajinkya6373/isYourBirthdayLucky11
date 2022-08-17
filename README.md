@@ -1,6 +1,6 @@
 # Is your birthday Lucky
 Mark 11
-Teck Stack
+Tech Stack
 - MTML
 - CSS
 - javaScript
