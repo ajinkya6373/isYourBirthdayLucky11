@@ -12,7 +12,7 @@ const isBirthDayLucky = () => {
             output.innerText="Sorry! Your Birthday is not Lucky 🤐";
         }
     }else{
-        output.innerText="Enter both the value corerctly"
+        output.innerText="Enter both the value correctly"
     }
 }
 
